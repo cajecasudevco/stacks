@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stacks.Test/UnitTest1.cs">
+    <Files>
+      <File FileName="Stacks/Stacks.cs" Line="5" Column="24" />
+      <File FileName="Stacks.Test/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Stacks" expanded="True">
+            <Node name="Stacks" expanded="True" />
+            <Node name="Stacks.Test" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Stacks" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Stacks.Test FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Stacks FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

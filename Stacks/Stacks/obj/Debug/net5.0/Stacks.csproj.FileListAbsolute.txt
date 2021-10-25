@@ -1,0 +1,11 @@
+/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/bin/Debug/net5.0/Stacks.deps.json
+/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/bin/Debug/net5.0/Stacks.dll
+/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/bin/Debug/net5.0/ref/Stacks.dll
+/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/bin/Debug/net5.0/Stacks.pdb
+/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/Stacks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/Stacks.AssemblyInfoInputs.cache
+/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/Stacks.AssemblyInfo.cs
+/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/Stacks.csproj.CoreCompileInputs.cache
+/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/Stacks.dll
+/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/ref/Stacks.dll
+/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/Stacks.pdb
