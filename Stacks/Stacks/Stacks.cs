@@ -17,5 +17,6 @@ namespace Stacks
             _list.Add(obj);
         }
 
+
     }
 }

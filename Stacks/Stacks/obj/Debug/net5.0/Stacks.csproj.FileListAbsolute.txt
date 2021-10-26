@@ -9,3 +9,4 @@
 /Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/Stacks.dll
 /Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/ref/Stacks.dll
 /Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/Stacks.pdb
+/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/Stacks.csproj.AssemblyReference.cache

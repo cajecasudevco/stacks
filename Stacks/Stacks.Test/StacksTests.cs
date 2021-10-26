@@ -13,8 +13,7 @@ namespace Stacks.Test
             var stack = new Stacks<string>();
 
             Assert.That(() => stack.Push(null), Throws.ArgumentNullException);
-
-
         }
+
     }
 }
