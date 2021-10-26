@@ -17,6 +17,16 @@ namespace Stacks
             _list.Add(obj);
         }
 
+        public T Pop()
+        {
+            if (_list.Count == 0)
+                throw new InvalidOperationException();
+
+            var result = _list[_list.Count - 1];
+            _list.RemoveAt(_list.Count - 1);
+
+            return result;
+        }
 
     }
 }

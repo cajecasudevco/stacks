@@ -15,5 +15,17 @@ namespace Stacks.Test
             Assert.That(() => stack.Push(null), Throws.ArgumentNullException);
         }
 
+        [Test]
+        public void Push_Argumento_Valido()
+        {
+            var stack = new Stacks<string>();
+
+            stack.Push("a");
+
+            Assert.That(stack.Count, Is.EqualTo(1));
+
+            
+        }
+
     }
 }
