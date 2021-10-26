@@ -27,5 +27,14 @@ namespace Stacks.Test
             
         }
 
+
+        [Test]
+        public void Pop_Argumento_Vacio()
+        {
+            var stack = new Stacks<string>();
+
+            Assert.That(()=>stack.Pop(), Throws.InvalidOperationException);
+
+        }
     }
 }
