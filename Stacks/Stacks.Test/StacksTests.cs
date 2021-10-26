@@ -27,5 +27,13 @@ namespace Stacks.Test
             
         }
 
+        [Test]
+        public void Pop_EmptyStack_ThrowInvalidOperationException()
+        {
+            var stack = new Stacks<string>();
+
+            Assert.That(() => stack.Pop(), Throws.InvalidOperationException);
+        }
+
     }
 }
